@@ -1,6 +1,6 @@
 # PokeAPI
 
-**Description:** A basic API for the [Tek Discord bot](https://github.com/Decaded/Tek--The-god-of-Technology-)'s Pokémon addon.
+A basic API for the [Tek Discord bot](https://github.com/Decaded/Tek--The-god-of-Technology-)'s Pokémon addon.
 
 ## Features
 
