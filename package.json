@@ -1,0 +1,26 @@
+{
+  "name": "pokeapi",
+  "version": "1.0.0",
+  "description": "A basic API for the Tek Discord bot's Pokémon addon. Data is stored locally and sourced from pokeapi.co",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "keywords": [
+    "pokemon",
+    "api",
+    "discord"
+  ],
+  "author": "Decaded (https://decaded.dev)",
+  "funding": {
+    "type": "ko-fi",
+    "url": "https://ko-fi.com/decaded"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@decaded/nyadb": "^4.0.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0"
+  }
+}

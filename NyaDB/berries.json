@@ -1,0 +1,2114 @@
+{
+  "1": {
+    "name": "Cheri",
+    "growth_time": 3,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 20,
+    "smoothness": 25,
+    "soil_dryness": 15,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 10
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "cheri-berry",
+    "natural_gift_type": "fire"
+  },
+  "2": {
+    "name": "Chesto",
+    "growth_time": 3,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 80,
+    "smoothness": 25,
+    "soil_dryness": 15,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 10
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "chesto-berry",
+    "natural_gift_type": "water"
+  },
+  "3": {
+    "name": "Pecha",
+    "growth_time": 3,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 40,
+    "smoothness": 25,
+    "soil_dryness": 15,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 10
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "pecha-berry",
+    "natural_gift_type": "electric"
+  },
+  "4": {
+    "name": "Rawst",
+    "growth_time": 3,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 32,
+    "smoothness": 25,
+    "soil_dryness": 15,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 10
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "rawst-berry",
+    "natural_gift_type": "grass"
+  },
+  "5": {
+    "name": "Aspear",
+    "growth_time": 3,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 50,
+    "smoothness": 25,
+    "soil_dryness": 15,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 10
+      }
+    ],
+    "item": "aspear-berry",
+    "natural_gift_type": "ice"
+  },
+  "6": {
+    "name": "Leppa",
+    "growth_time": 4,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 28,
+    "smoothness": 20,
+    "soil_dryness": 15,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 10
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 10
+      },
+      {
+        "flavor": "bitter",
+        "potency": 10
+      },
+      {
+        "flavor": "sour",
+        "potency": 10
+      }
+    ],
+    "item": "leppa-berry",
+    "natural_gift_type": "fighting"
+  },
+  "7": {
+    "name": "Oran",
+    "growth_time": 4,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 35,
+    "smoothness": 20,
+    "soil_dryness": 15,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 10
+      },
+      {
+        "flavor": "dry",
+        "potency": 10
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 10
+      },
+      {
+        "flavor": "sour",
+        "potency": 10
+      }
+    ],
+    "item": "oran-berry",
+    "natural_gift_type": "poison"
+  },
+  "8": {
+    "name": "Persim",
+    "growth_time": 4,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 47,
+    "smoothness": 20,
+    "soil_dryness": 15,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 10
+      },
+      {
+        "flavor": "dry",
+        "potency": 10
+      },
+      {
+        "flavor": "sweet",
+        "potency": 10
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 10
+      }
+    ],
+    "item": "persim-berry",
+    "natural_gift_type": "ground"
+  },
+  "9": {
+    "name": "Lum",
+    "growth_time": 12,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 34,
+    "smoothness": 20,
+    "soil_dryness": 8,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 10
+      },
+      {
+        "flavor": "dry",
+        "potency": 10
+      },
+      {
+        "flavor": "sweet",
+        "potency": 10
+      },
+      {
+        "flavor": "bitter",
+        "potency": 10
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "lum-berry",
+    "natural_gift_type": "flying"
+  },
+  "10": {
+    "name": "Sitrus",
+    "growth_time": 8,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 95,
+    "smoothness": 20,
+    "soil_dryness": 7,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 10
+      },
+      {
+        "flavor": "sweet",
+        "potency": 10
+      },
+      {
+        "flavor": "bitter",
+        "potency": 10
+      },
+      {
+        "flavor": "sour",
+        "potency": 10
+      }
+    ],
+    "item": "sitrus-berry",
+    "natural_gift_type": "psychic"
+  },
+  "11": {
+    "name": "Figy",
+    "growth_time": 5,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 100,
+    "smoothness": 25,
+    "soil_dryness": 10,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 15
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "figy-berry",
+    "natural_gift_type": "bug"
+  },
+  "12": {
+    "name": "Wiki",
+    "growth_time": 5,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 115,
+    "smoothness": 25,
+    "soil_dryness": 10,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 15
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "wiki-berry",
+    "natural_gift_type": "rock"
+  },
+  "13": {
+    "name": "Mago",
+    "growth_time": 5,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 126,
+    "smoothness": 25,
+    "soil_dryness": 10,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 15
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "mago-berry",
+    "natural_gift_type": "ghost"
+  },
+  "14": {
+    "name": "Aguav",
+    "growth_time": 5,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 64,
+    "smoothness": 25,
+    "soil_dryness": 10,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 15
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "aguav-berry",
+    "natural_gift_type": "dragon"
+  },
+  "15": {
+    "name": "Iapapa",
+    "growth_time": 5,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 223,
+    "smoothness": 25,
+    "soil_dryness": 10,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 15
+      }
+    ],
+    "item": "iapapa-berry",
+    "natural_gift_type": "dark"
+  },
+  "16": {
+    "name": "Razz",
+    "growth_time": 2,
+    "max_harvest": 10,
+    "natural_gift_power": 60,
+    "size": 120,
+    "smoothness": 20,
+    "soil_dryness": 35,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 10
+      },
+      {
+        "flavor": "dry",
+        "potency": 10
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "razz-berry",
+    "natural_gift_type": "steel"
+  },
+  "17": {
+    "name": "Bluk",
+    "growth_time": 2,
+    "max_harvest": 10,
+    "natural_gift_power": 70,
+    "size": 108,
+    "smoothness": 20,
+    "soil_dryness": 35,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 10
+      },
+      {
+        "flavor": "sweet",
+        "potency": 10
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "bluk-berry",
+    "natural_gift_type": "fire"
+  },
+  "18": {
+    "name": "Nanab",
+    "growth_time": 2,
+    "max_harvest": 10,
+    "natural_gift_power": 70,
+    "size": 77,
+    "smoothness": 20,
+    "soil_dryness": 35,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 10
+      },
+      {
+        "flavor": "bitter",
+        "potency": 10
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "nanab-berry",
+    "natural_gift_type": "water"
+  },
+  "19": {
+    "name": "Wepear",
+    "growth_time": 2,
+    "max_harvest": 10,
+    "natural_gift_power": 70,
+    "size": 74,
+    "smoothness": 20,
+    "soil_dryness": 35,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 10
+      },
+      {
+        "flavor": "sour",
+        "potency": 10
+      }
+    ],
+    "item": "wepear-berry",
+    "natural_gift_type": "electric"
+  },
+  "20": {
+    "name": "Pinap",
+    "growth_time": 2,
+    "max_harvest": 10,
+    "natural_gift_power": 70,
+    "size": 80,
+    "smoothness": 20,
+    "soil_dryness": 35,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 10
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 10
+      }
+    ],
+    "item": "pinap-berry",
+    "natural_gift_type": "grass"
+  },
+  "21": {
+    "name": "Pomeg",
+    "growth_time": 8,
+    "max_harvest": 5,
+    "natural_gift_power": 70,
+    "size": 135,
+    "smoothness": 20,
+    "soil_dryness": 8,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 10
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 10
+      },
+      {
+        "flavor": "bitter",
+        "potency": 10
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "pomeg-berry",
+    "natural_gift_type": "ice"
+  },
+  "22": {
+    "name": "Kelpsy",
+    "growth_time": 8,
+    "max_harvest": 5,
+    "natural_gift_power": 70,
+    "size": 150,
+    "smoothness": 20,
+    "soil_dryness": 8,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 10
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 10
+      },
+      {
+        "flavor": "sour",
+        "potency": 10
+      }
+    ],
+    "item": "kelpsy-berry",
+    "natural_gift_type": "fighting"
+  },
+  "23": {
+    "name": "Qualot",
+    "growth_time": 8,
+    "max_harvest": 5,
+    "natural_gift_power": 70,
+    "size": 110,
+    "smoothness": 20,
+    "soil_dryness": 8,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 10
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 10
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 10
+      }
+    ],
+    "item": "qualot-berry",
+    "natural_gift_type": "poison"
+  },
+  "24": {
+    "name": "Hondew",
+    "growth_time": 8,
+    "max_harvest": 5,
+    "natural_gift_power": 70,
+    "size": 162,
+    "smoothness": 20,
+    "soil_dryness": 8,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 10
+      },
+      {
+        "flavor": "dry",
+        "potency": 10
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 10
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "hondew-berry",
+    "natural_gift_type": "ground"
+  },
+  "25": {
+    "name": "Grepa",
+    "growth_time": 8,
+    "max_harvest": 5,
+    "natural_gift_power": 70,
+    "size": 149,
+    "smoothness": 20,
+    "soil_dryness": 8,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 10
+      },
+      {
+        "flavor": "sweet",
+        "potency": 10
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 10
+      }
+    ],
+    "item": "grepa-berry",
+    "natural_gift_type": "flying"
+  },
+  "26": {
+    "name": "Tamato",
+    "growth_time": 8,
+    "max_harvest": 5,
+    "natural_gift_power": 70,
+    "size": 200,
+    "smoothness": 30,
+    "soil_dryness": 8,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 20
+      },
+      {
+        "flavor": "dry",
+        "potency": 10
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "tamato-berry",
+    "natural_gift_type": "psychic"
+  },
+  "27": {
+    "name": "Cornn",
+    "growth_time": 6,
+    "max_harvest": 10,
+    "natural_gift_power": 70,
+    "size": 75,
+    "smoothness": 30,
+    "soil_dryness": 10,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 20
+      },
+      {
+        "flavor": "sweet",
+        "potency": 10
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "cornn-berry",
+    "natural_gift_type": "bug"
+  },
+  "28": {
+    "name": "Magost",
+    "growth_time": 6,
+    "max_harvest": 10,
+    "natural_gift_power": 70,
+    "size": 140,
+    "smoothness": 30,
+    "soil_dryness": 10,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 20
+      },
+      {
+        "flavor": "bitter",
+        "potency": 10
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "magost-berry",
+    "natural_gift_type": "rock"
+  },
+  "29": {
+    "name": "Rabuta",
+    "growth_time": 6,
+    "max_harvest": 10,
+    "natural_gift_power": 70,
+    "size": 226,
+    "smoothness": 30,
+    "soil_dryness": 10,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 20
+      },
+      {
+        "flavor": "sour",
+        "potency": 10
+      }
+    ],
+    "item": "rabuta-berry",
+    "natural_gift_type": "ghost"
+  },
+  "30": {
+    "name": "Nomel",
+    "growth_time": 6,
+    "max_harvest": 10,
+    "natural_gift_power": 70,
+    "size": 285,
+    "smoothness": 30,
+    "soil_dryness": 10,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 10
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 20
+      }
+    ],
+    "item": "nomel-berry",
+    "natural_gift_type": "dragon"
+  },
+  "31": {
+    "name": "Spelon",
+    "growth_time": 15,
+    "max_harvest": 15,
+    "natural_gift_power": 70,
+    "size": 133,
+    "smoothness": 35,
+    "soil_dryness": 8,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 30
+      },
+      {
+        "flavor": "dry",
+        "potency": 10
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "spelon-berry",
+    "natural_gift_type": "dark"
+  },
+  "32": {
+    "name": "Pamtre",
+    "growth_time": 15,
+    "max_harvest": 15,
+    "natural_gift_power": 70,
+    "size": 244,
+    "smoothness": 35,
+    "soil_dryness": 8,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 30
+      },
+      {
+        "flavor": "sweet",
+        "potency": 10
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "pamtre-berry",
+    "natural_gift_type": "steel"
+  },
+  "33": {
+    "name": "Watmel",
+    "growth_time": 15,
+    "max_harvest": 15,
+    "natural_gift_power": 80,
+    "size": 250,
+    "smoothness": 35,
+    "soil_dryness": 8,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 30
+      },
+      {
+        "flavor": "bitter",
+        "potency": 10
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "watmel-berry",
+    "natural_gift_type": "fire"
+  },
+  "34": {
+    "name": "Durin",
+    "growth_time": 15,
+    "max_harvest": 15,
+    "natural_gift_power": 80,
+    "size": 280,
+    "smoothness": 35,
+    "soil_dryness": 8,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 30
+      },
+      {
+        "flavor": "sour",
+        "potency": 10
+      }
+    ],
+    "item": "durin-berry",
+    "natural_gift_type": "water"
+  },
+  "35": {
+    "name": "Belue",
+    "growth_time": 15,
+    "max_harvest": 15,
+    "natural_gift_power": 80,
+    "size": 300,
+    "smoothness": 35,
+    "soil_dryness": 8,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 10
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 30
+      }
+    ],
+    "item": "belue-berry",
+    "natural_gift_type": "electric"
+  },
+  "36": {
+    "name": "Occa",
+    "growth_time": 18,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 90,
+    "smoothness": 30,
+    "soil_dryness": 6,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 15
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 10
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "occa-berry",
+    "natural_gift_type": "fire"
+  },
+  "37": {
+    "name": "Passho",
+    "growth_time": 18,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 33,
+    "smoothness": 30,
+    "soil_dryness": 6,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 15
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 10
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "passho-berry",
+    "natural_gift_type": "water"
+  },
+  "38": {
+    "name": "Wacan",
+    "growth_time": 18,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 250,
+    "smoothness": 30,
+    "soil_dryness": 6,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 15
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 10
+      }
+    ],
+    "item": "wacan-berry",
+    "natural_gift_type": "electric"
+  },
+  "39": {
+    "name": "Rindo",
+    "growth_time": 18,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 156,
+    "smoothness": 30,
+    "soil_dryness": 6,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 10
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 15
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "rindo-berry",
+    "natural_gift_type": "grass"
+  },
+  "40": {
+    "name": "Yache",
+    "growth_time": 18,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 135,
+    "smoothness": 30,
+    "soil_dryness": 6,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 10
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 15
+      }
+    ],
+    "item": "yache-berry",
+    "natural_gift_type": "ice"
+  },
+  "41": {
+    "name": "Chople",
+    "growth_time": 18,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 77,
+    "smoothness": 30,
+    "soil_dryness": 6,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 15
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 10
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "chople-berry",
+    "natural_gift_type": "fighting"
+  },
+  "42": {
+    "name": "Kebia",
+    "growth_time": 18,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 90,
+    "smoothness": 30,
+    "soil_dryness": 6,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 15
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 10
+      }
+    ],
+    "item": "kebia-berry",
+    "natural_gift_type": "poison"
+  },
+  "43": {
+    "name": "Shuca",
+    "growth_time": 18,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 42,
+    "smoothness": 30,
+    "soil_dryness": 6,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 10
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 15
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "shuca-berry",
+    "natural_gift_type": "ground"
+  },
+  "44": {
+    "name": "Coba",
+    "growth_time": 18,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 278,
+    "smoothness": 30,
+    "soil_dryness": 6,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 10
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 15
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "coba-berry",
+    "natural_gift_type": "flying"
+  },
+  "45": {
+    "name": "Payapa",
+    "growth_time": 18,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 252,
+    "smoothness": 30,
+    "soil_dryness": 6,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 10
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 15
+      }
+    ],
+    "item": "payapa-berry",
+    "natural_gift_type": "psychic"
+  },
+  "46": {
+    "name": "Tanga",
+    "growth_time": 18,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 42,
+    "smoothness": 35,
+    "soil_dryness": 6,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 20
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 10
+      }
+    ],
+    "item": "tanga-berry",
+    "natural_gift_type": "bug"
+  },
+  "47": {
+    "name": "Charti",
+    "growth_time": 18,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 28,
+    "smoothness": 35,
+    "soil_dryness": 6,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 10
+      },
+      {
+        "flavor": "dry",
+        "potency": 20
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "charti-berry",
+    "natural_gift_type": "rock"
+  },
+  "48": {
+    "name": "Kasib",
+    "growth_time": 18,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 144,
+    "smoothness": 35,
+    "soil_dryness": 6,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 10
+      },
+      {
+        "flavor": "sweet",
+        "potency": 20
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "kasib-berry",
+    "natural_gift_type": "ghost"
+  },
+  "49": {
+    "name": "Haban",
+    "growth_time": 18,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 23,
+    "smoothness": 35,
+    "soil_dryness": 6,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 10
+      },
+      {
+        "flavor": "bitter",
+        "potency": 20
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "haban-berry",
+    "natural_gift_type": "dragon"
+  },
+  "50": {
+    "name": "Colbur",
+    "growth_time": 18,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 39,
+    "smoothness": 35,
+    "soil_dryness": 6,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 10
+      },
+      {
+        "flavor": "sour",
+        "potency": 20
+      }
+    ],
+    "item": "colbur-berry",
+    "natural_gift_type": "dark"
+  },
+  "51": {
+    "name": "Babiri",
+    "growth_time": 18,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 265,
+    "smoothness": 35,
+    "soil_dryness": 6,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 25
+      },
+      {
+        "flavor": "dry",
+        "potency": 10
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "babiri-berry",
+    "natural_gift_type": "steel"
+  },
+  "52": {
+    "name": "Chilan",
+    "growth_time": 18,
+    "max_harvest": 5,
+    "natural_gift_power": 60,
+    "size": 34,
+    "smoothness": 35,
+    "soil_dryness": 6,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 25
+      },
+      {
+        "flavor": "sweet",
+        "potency": 10
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "chilan-berry",
+    "natural_gift_type": "normal"
+  },
+  "53": {
+    "name": "Liechi",
+    "growth_time": 24,
+    "max_harvest": 5,
+    "natural_gift_power": 80,
+    "size": 111,
+    "smoothness": 40,
+    "soil_dryness": 4,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 30
+      },
+      {
+        "flavor": "dry",
+        "potency": 10
+      },
+      {
+        "flavor": "sweet",
+        "potency": 30
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "liechi-berry",
+    "natural_gift_type": "grass"
+  },
+  "54": {
+    "name": "Ganlon",
+    "growth_time": 24,
+    "max_harvest": 5,
+    "natural_gift_power": 80,
+    "size": 33,
+    "smoothness": 40,
+    "soil_dryness": 4,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 30
+      },
+      {
+        "flavor": "sweet",
+        "potency": 10
+      },
+      {
+        "flavor": "bitter",
+        "potency": 30
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "ganlon-berry",
+    "natural_gift_type": "ice"
+  },
+  "55": {
+    "name": "Salac",
+    "growth_time": 24,
+    "max_harvest": 5,
+    "natural_gift_power": 80,
+    "size": 95,
+    "smoothness": 40,
+    "soil_dryness": 4,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 30
+      },
+      {
+        "flavor": "bitter",
+        "potency": 10
+      },
+      {
+        "flavor": "sour",
+        "potency": 30
+      }
+    ],
+    "item": "salac-berry",
+    "natural_gift_type": "fighting"
+  },
+  "56": {
+    "name": "Petaya",
+    "growth_time": 24,
+    "max_harvest": 5,
+    "natural_gift_power": 80,
+    "size": 237,
+    "smoothness": 40,
+    "soil_dryness": 4,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 30
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 30
+      },
+      {
+        "flavor": "sour",
+        "potency": 10
+      }
+    ],
+    "item": "petaya-berry",
+    "natural_gift_type": "poison"
+  },
+  "57": {
+    "name": "Apicot",
+    "growth_time": 24,
+    "max_harvest": 5,
+    "natural_gift_power": 80,
+    "size": 75,
+    "smoothness": 40,
+    "soil_dryness": 4,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 10
+      },
+      {
+        "flavor": "dry",
+        "potency": 30
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 30
+      }
+    ],
+    "item": "apicot-berry",
+    "natural_gift_type": "ground"
+  },
+  "58": {
+    "name": "Lansat",
+    "growth_time": 24,
+    "max_harvest": 5,
+    "natural_gift_power": 80,
+    "size": 97,
+    "smoothness": 50,
+    "soil_dryness": 4,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 30
+      },
+      {
+        "flavor": "dry",
+        "potency": 10
+      },
+      {
+        "flavor": "sweet",
+        "potency": 30
+      },
+      {
+        "flavor": "bitter",
+        "potency": 10
+      },
+      {
+        "flavor": "sour",
+        "potency": 30
+      }
+    ],
+    "item": "lansat-berry",
+    "natural_gift_type": "flying"
+  },
+  "59": {
+    "name": "Starf",
+    "growth_time": 24,
+    "max_harvest": 5,
+    "natural_gift_power": 80,
+    "size": 153,
+    "smoothness": 50,
+    "soil_dryness": 4,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 30
+      },
+      {
+        "flavor": "dry",
+        "potency": 10
+      },
+      {
+        "flavor": "sweet",
+        "potency": 30
+      },
+      {
+        "flavor": "bitter",
+        "potency": 10
+      },
+      {
+        "flavor": "sour",
+        "potency": 30
+      }
+    ],
+    "item": "starf-berry",
+    "natural_gift_type": "psychic"
+  },
+  "60": {
+    "name": "Enigma",
+    "growth_time": 24,
+    "max_harvest": 5,
+    "natural_gift_power": 80,
+    "size": 155,
+    "smoothness": 60,
+    "soil_dryness": 7,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 40
+      },
+      {
+        "flavor": "dry",
+        "potency": 10
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "enigma-berry",
+    "natural_gift_type": "bug"
+  },
+  "61": {
+    "name": "Micle",
+    "growth_time": 24,
+    "max_harvest": 5,
+    "natural_gift_power": 80,
+    "size": 41,
+    "smoothness": 60,
+    "soil_dryness": 7,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 40
+      },
+      {
+        "flavor": "sweet",
+        "potency": 10
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "micle-berry",
+    "natural_gift_type": "rock"
+  },
+  "62": {
+    "name": "Custap",
+    "growth_time": 24,
+    "max_harvest": 5,
+    "natural_gift_power": 80,
+    "size": 267,
+    "smoothness": 60,
+    "soil_dryness": 7,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 40
+      },
+      {
+        "flavor": "bitter",
+        "potency": 10
+      },
+      {
+        "flavor": "sour",
+        "potency": 0
+      }
+    ],
+    "item": "custap-berry",
+    "natural_gift_type": "ghost"
+  },
+  "63": {
+    "name": "Jaboca",
+    "growth_time": 24,
+    "max_harvest": 5,
+    "natural_gift_power": 80,
+    "size": 33,
+    "smoothness": 60,
+    "soil_dryness": 7,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 0
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 40
+      },
+      {
+        "flavor": "sour",
+        "potency": 10
+      }
+    ],
+    "item": "jaboca-berry",
+    "natural_gift_type": "dragon"
+  },
+  "64": {
+    "name": "Rowap",
+    "growth_time": 24,
+    "max_harvest": 5,
+    "natural_gift_power": 80,
+    "size": 52,
+    "smoothness": 60,
+    "soil_dryness": 7,
+    "flavors": [
+      {
+        "flavor": "spicy",
+        "potency": 10
+      },
+      {
+        "flavor": "dry",
+        "potency": 0
+      },
+      {
+        "flavor": "sweet",
+        "potency": 0
+      },
+      {
+        "flavor": "bitter",
+        "potency": 0
+      },
+      {
+        "flavor": "sour",
+        "potency": 40
+      }
+    ],
+    "item": "rowap-berry",
+    "natural_gift_type": "dark"
+  }
+}
