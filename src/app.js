@@ -52,7 +52,9 @@ const getData = collection => async (req, res) => {
 				return res.json(itemById);
 			}
 
-			const itemByName = Object.values(data).find(item => item.name.toLowerCase() === query.toLowerCase());
+			const itemByName = Object.values(data).find(
+				item => item.name.toLowerCase() === query.toLowerCase() && (!req.query.form || item.form?.toLowerCase() === req.query.form.toLowerCase()),
+			);
 			if (itemByName) {
 				return res.json(itemByName);
 			}
