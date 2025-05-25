@@ -141403,5 +141403,258 @@
       "evolves_to": []
     },
     "region": "Paldea"
+  },
+  "10037": {
+    "name": "Alolan Vulpix",
+    "form": "Alolan",
+    "height": 0.6,
+    "weight": 9.9,
+    "base_experience": 60,
+    "types": [
+      "ice"
+    ],
+    "stats": {
+      "hp": 38,
+      "attack": 41,
+      "defense": 40,
+      "special-attack": 50,
+      "special-defense": 65,
+      "speed": 65
+    },
+    "abilities": [
+      {
+        "id": "81",
+        "is_hidden": false,
+        "name": "Snow Cloak"
+      },
+      {
+        "id": "202",
+        "is_hidden": true,
+        "name": "Snow Warning"
+      }
+    ],
+    "moves": [
+      "29:0",
+      "33:1",
+      "34:0",
+      "36:0",
+      "39:1",
+      "50:0",
+      "52:1",
+      "53:35",
+      "83:42",
+      "91:0",
+      "92:0",
+      "95:0",
+      "97:0",
+      "98:16",
+      "99:0",
+      "104:0",
+      "109:28",
+      "115:0",
+      "129:0",
+      "156:0",
+      "164:0",
+      "173:0",
+      "175:0",
+      "180:0",
+      "182:0",
+      "196:0",
+      "204:0",
+      "207:0",
+      "213:0",
+      "214:0",
+      "216:0",
+      "219:25",
+      "227:0",
+      "231:0",
+      "237:0",
+      "240:0",
+      "248:0",
+      "257:0",
+      "261:17",
+      "263:0",
+      "270:0",
+      "286:25",
+      "288:37",
+      "311:0",
+      "313:0",
+      "326:44",
+      "333:0",
+      "334:0",
+      "352:0",
+      "387:0",
+      "399:0",
+      "417:9",
+      "419:0",
+      "420:0",
+      "423:0",
+      "445:37",
+      "524:0",
+      "525:0",
+      "542:0",
+      "583:0",
+      "590:0",
+      "612:0"
+    ],
+    "held_items": [
+      "226"
+    ],
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10103.png",
+      "front_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10103.png",
+      "front_shiny_female": null
+    },
+    "egg_groups": [
+      "ground"
+    ],
+    "base_happiness": 50,
+    "capture_rate": 190,
+    "description": "It exhales air colder than -58 degrees Fahrenheit. Elderly people in Alola call this Pokémon by an older name—Keokeo.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "evolution_chain": {
+      "species": "vulpix-alola",
+      "evolves_to": [
+        {
+          "species": "ninetales-alola",
+          "item": "ice-stone",
+          "evolves_to": []
+        }
+      ]
+    },
+    "region": "Alola"
+  },
+  "10038": {
+    "name": "Alolan Ninetales",
+    "form": "Alolan",
+    "height": 1.1,
+    "weight": 19.9,
+    "base_experience": 177,
+    "types": [
+      "ice",
+      "fairy"
+    ],
+    "stats": {
+      "hp": 73,
+      "attack": 67,
+      "defense": 75,
+      "special-attack": 81,
+      "special-defense": 100,
+      "speed": 109
+    },
+    "abilities": [
+      {
+        "id": "81",
+        "is_hidden": false,
+        "name": "Snow Cloak"
+      },
+      {
+        "id": "202",
+        "is_hidden": true,
+        "name": "Snow Warning"
+      }
+    ],
+    "moves": [
+      "29:0",
+      "33:1",
+      "34:0",
+      "36:0",
+      "39:1",
+      "50:1",
+      "52:1",
+      "53:0",
+      "63:0",
+      "76:0",
+      "83:43",
+      "91:0",
+      "92:0",
+      "95:1",
+      "97:0",
+      "98:1",
+      "99:0",
+      "104:0",
+      "109:1",
+      "115:0",
+      "129:0",
+      "156:0",
+      "164:0",
+      "173:0",
+      "175:0",
+      "180:0",
+      "182:0",
+      "196:0",
+      "204:0",
+      "207:0",
+      "213:0",
+      "214:0",
+      "216:0",
+      "219:1",
+      "227:0",
+      "231:0",
+      "237:0",
+      "240:0",
+      "247:0",
+      "248:0",
+      "257:0",
+      "261:0",
+      "263:0",
+      "270:0",
+      "286:1",
+      "288:1",
+      "311:0",
+      "313:0",
+      "326:1",
+      "333:0",
+      "334:0",
+      "347:0",
+      "352:0",
+      "387:0",
+      "399:0",
+      "416:0",
+      "417:1",
+      "419:0",
+      "420:0",
+      "423:0",
+      "445:0",
+      "473:0",
+      "524:0",
+      "525:0",
+      "542:0",
+      "583:0",
+      "590:0",
+      "595:0",
+      "612:0",
+      "673:0"
+    ],
+    "held_items": [
+      "226"
+    ],
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10104.png",
+      "front_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10104.png",
+      "front_shiny_female": null
+    },
+    "egg_groups": [
+      "ground"
+    ],
+    "base_happiness": 50,
+    "capture_rate": 75,
+    "description": "It creates drops of ice in its coat and showers them over its enemies. Anyone who angers it will be frozen stiff in an instant.",
+    "is_legendary": false,
+    "is_mythical": false,
+    "evolution_chain": {
+      "species": "vulpix-alola",
+      "evolves_to": [
+        {
+          "species": "ninetales-alola",
+          "item": "ice-stone",
+          "evolves_to": []
+        }
+      ]
+    },
+    "region": "Alola"
   }
 }
